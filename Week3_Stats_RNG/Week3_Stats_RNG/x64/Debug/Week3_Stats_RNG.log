@@ -1,0 +1,3 @@
+﻿  Stats.cpp
+C:\Users\jcaballero22\source\repos\Week3_Stats_RNG\Week3_Stats_RNG\Stats.cpp(9,11): warning C4244: 'initializing': conversion from 'time_t' to 'int', possible loss of data
+  Week3_Stats_RNG.vcxproj -> C:\Users\jcaballero22\source\repos\Week3_Stats_RNG\x64\Debug\Week3_Stats_RNG.exe
